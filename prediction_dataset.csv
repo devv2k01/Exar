@@ -1,0 +1,556 @@
+Year,Subject,Total
+1910,Data Structures,15
+1910,Digital Logic,7
+1910,Math,19
+1910,OS,6
+1910,Programming,6
+1911,Data Structures,19
+1911,Digital Logic,3
+1911,Math,15
+1911,OS,7
+1911,Programming,7
+1912,Data Structures,16
+1912,Digital Logic,4
+1912,Math,16
+1912,OS,10
+1912,Programming,7
+1913,Data Structures,17
+1913,Digital Logic,2
+1913,Math,17
+1913,OS,7
+1913,Programming,5
+1914,Data Structures,14
+1914,Digital Logic,4
+1914,Math,18
+1914,OS,7
+1914,Programming,5
+1915,Data Structures,15
+1915,Digital Logic,1
+1915,Math,19
+1915,OS,7
+1915,Programming,5
+1916,Data Structures,18
+1916,Digital Logic,4
+1916,Math,17
+1916,OS,7
+1916,Programming,5
+1917,Data Structures,17
+1917,Digital Logic,4
+1917,Math,15
+1917,OS,7
+1917,Programming,5
+1918,Data Structures,16
+1918,Digital Logic,5
+1918,Math,16
+1918,OS,7
+1918,Programming,5
+1919,Data Structures,14
+1919,Digital Logic,4
+1919,Math,16
+1919,OS,7
+1919,Programming,5
+1920,Data Structures,12
+1920,Digital Logic,4
+1920,Math,17
+1920,OS,10
+1920,Programming,5
+1921,Data Structures,13
+1921,Digital Logic,3
+1921,Math,18
+1921,OS,25
+1921,Programming,7
+1922,Data Structures,18
+1922,Digital Logic,3
+1922,Math,18
+1922,OS,10
+1922,Programming,7
+1923,Data Structures,17
+1923,Digital Logic,3
+1923,Math,17
+1923,OS,10
+1923,Programming,7
+1924,Data Structures,15
+1924,Digital Logic,2
+1924,Math,15
+1924,OS,10
+1924,Programming,6
+1925,Data Structures,16
+1925,Digital Logic,4
+1925,Math,17
+1925,OS,6
+1925,Programming,6
+1926,Data Structures,14
+1926,Digital Logic,1
+1926,Math,17
+1926,OS,10
+1926,Programming,6
+1927,Data Structures,13
+1927,Digital Logic,4
+1927,Math,15
+1927,OS,10
+1927,Programming,6
+1928,Data Structures,18
+1928,Digital Logic,1
+1928,Math,17
+1928,OS,10
+1928,Programming,6
+1929,Data Structures,12
+1929,Digital Logic,1
+1929,Math,19
+1929,OS,6
+1929,Programming,6
+1930,Data Structures,18
+1930,Digital Logic,3
+1930,Math,17
+1930,OS,10
+1930,Programming,6
+1931,Data Structures,12
+1931,Digital Logic,4
+1931,Math,15
+1931,OS,10
+1931,Programming,6
+1932,Data Structures,12
+1932,Digital Logic,4
+1932,Math,17
+1932,OS,10
+1932,Programming,6
+1933,Data Structures,13
+1933,Digital Logic,4
+1933,Math,16
+1933,OS,6
+1933,Programming,7
+1934,Data Structures,14
+1934,Digital Logic,5
+1934,Math,17
+1934,OS,10
+1934,Programming,7
+1935,Data Structures,12
+1935,Digital Logic,4
+1935,Math,17
+1935,OS,10
+1935,Programming,7
+1936,Data Structures,12
+1936,Digital Logic,5
+1936,Math,17
+1936,OS,8
+1936,Programming,7
+1937,Data Structures,18
+1937,Digital Logic,4
+1937,Math,17
+1937,OS,10
+1937,Programming,7
+1938,Data Structures,12
+1938,Digital Logic,4
+1938,Math,18
+1938,OS,10
+1938,Programming,7
+1939,Data Structures,12
+1939,Digital Logic,6
+1939,Math,18
+1939,OS,6
+1939,Programming,3
+1940,Data Structures,15
+1940,Digital Logic,4
+1940,Math,18
+1940,OS,10
+1940,Programming,3
+1941,Data Structures,13
+1941,Digital Logic,5
+1941,Math,18
+1941,OS,7
+1941,Programming,3
+1942,Data Structures,12
+1942,Digital Logic,4
+1942,Math,18
+1942,OS,5
+1942,Programming,3
+1943,Data Structures,14
+1943,Digital Logic,3
+1943,Math,17
+1943,OS,10
+1943,Programming,3
+1944,Data Structures,12
+1944,Digital Logic,4
+1944,Math,17
+1944,OS,10
+1944,Programming,7
+1945,Data Structures,14
+1945,Digital Logic,4
+1945,Math,17
+1945,OS,8
+1945,Programming,7
+1946,Data Structures,12
+1946,Digital Logic,1
+1946,Math,16
+1946,OS,10
+1946,Programming,7
+1947,Data Structures,12
+1947,Digital Logic,4
+1947,Math,16
+1947,OS,10
+1947,Programming,7
+1948,Data Structures,15
+1948,Digital Logic,4
+1948,Math,16
+1948,OS,9
+1948,Programming,7
+1949,Data Structures,12
+1949,Digital Logic,5
+1949,Math,16
+1949,OS,10
+1949,Programming,6
+1950,Data Structures,12
+1950,Digital Logic,4
+1950,Math,16
+1950,OS,10
+1950,Programming,6
+1951,Data Structures,18
+1951,Digital Logic,4
+1951,Math,17
+1951,OS,7
+1951,Programming,6
+1952,Data Structures,12
+1952,Digital Logic,2
+1952,Math,17
+1952,OS,10
+1952,Programming,6
+1953,Data Structures,12
+1953,Digital Logic,4
+1953,Math,15
+1953,OS,10
+1953,Programming,6
+1954,Data Structures,12
+1954,Digital Logic,4
+1954,Math,17
+1954,OS,8
+1954,Programming,6
+1955,Data Structures,14
+1955,Digital Logic,4
+1955,Math,17
+1955,OS,10
+1955,Programming,6
+1956,Data Structures,12
+1956,Digital Logic,4
+1956,Math,15
+1956,OS,10
+1956,Programming,6
+1957,Data Structures,12
+1957,Digital Logic,4
+1957,Math,17
+1957,OS,9
+1957,Programming,7
+1958,Data Structures,15
+1958,Digital Logic,2
+1958,Math,17
+1958,OS,10
+1958,Programming,7
+1959,Data Structures,12
+1959,Digital Logic,4
+1959,Math,14
+1959,OS,7
+1959,Programming,7
+1960,Data Structures,16
+1960,Digital Logic,4
+1960,Math,14
+1960,OS,10
+1960,Programming,7
+1961,Data Structures,12
+1961,Digital Logic,4
+1961,Math,14
+1961,OS,9
+1961,Programming,7
+1962,Data Structures,13
+1962,Digital Logic,3
+1962,Math,14
+1962,OS,10
+1962,Programming,7
+1963,Data Structures,12
+1963,Digital Logic,4
+1963,Math,17
+1963,OS,10
+1963,Programming,7
+1964,Data Structures,13
+1964,Digital Logic,1
+1964,Math,17
+1964,OS,10
+1964,Programming,7
+1965,Data Structures,13
+1965,Digital Logic,4
+1965,Math,17
+1965,OS,7
+1965,Programming,7
+1966,Data Structures,12
+1966,Digital Logic,4
+1966,Math,17
+1966,OS,10
+1966,Programming,7
+1967,Data Structures,12
+1967,Digital Logic,4
+1967,Math,17
+1967,OS,10
+1967,Programming,8
+1968,Data Structures,12
+1968,Digital Logic,4
+1968,Math,13
+1968,OS,10
+1968,Programming,8
+1969,Data Structures,12
+1969,Digital Logic,3
+1969,Math,17
+1969,OS,11
+1969,Programming,8
+1970,Data Structures,13
+1970,Digital Logic,4
+1970,Math,17
+1970,OS,10
+1970,Programming,8
+1971,Data Structures,12
+1971,Digital Logic,4
+1971,Math,18
+1971,OS,10
+1971,Programming,8
+1972,Data Structures,12
+1972,Digital Logic,4
+1972,Math,17
+1972,OS,8
+1972,Programming,8
+1973,Data Structures,18
+1973,Digital Logic,4
+1973,Math,17
+1973,OS,10
+1973,Programming,8
+1974,Data Structures,12
+1974,Digital Logic,4
+1974,Math,17
+1974,OS,10
+1974,Programming,7
+1975,Data Structures,12
+1975,Digital Logic,4
+1975,Math,19
+1975,OS,7
+1975,Programming,7
+1976,Data Structures,13
+1976,Digital Logic,4
+1976,Math,19
+1976,OS,10
+1976,Programming,7
+1977,Data Structures,12
+1977,Digital Logic,4
+1977,Math,19
+1977,OS,11
+1977,Programming,7
+1978,Data Structures,12
+1978,Digital Logic,4
+1978,Math,19
+1978,OS,10
+1978,Programming,7
+1979,Data Structures,12
+1979,Digital Logic,5
+1979,Math,19
+1979,OS,9
+1979,Programming,7
+1980,Data Structures,12
+1980,Digital Logic,5
+1980,Math,19
+1980,OS,9
+1980,Programming,7
+1981,Data Structures,12
+1981,Digital Logic,5
+1981,Math,17
+1981,OS,9
+1981,Programming,7
+1982,Data Structures,13
+1982,Digital Logic,5
+1982,Math,17
+1982,OS,9
+1982,Programming,7
+1983,Data Structures,12
+1983,Digital Logic,5
+1983,Math,17
+1983,OS,10
+1983,Programming,7
+1984,Data Structures,17
+1984,Digital Logic,4
+1984,Math,18
+1984,OS,10
+1984,Programming,7
+1985,Data Structures,12
+1985,Digital Logic,4
+1985,Math,17
+1985,OS,10
+1985,Programming,3
+1986,Data Structures,13
+1986,Digital Logic,4
+1986,Math,18
+1986,OS,10
+1986,Programming,3
+1987,Data Structures,12
+1987,Digital Logic,4
+1987,Math,17
+1987,OS,10
+1987,Programming,3
+1988,Data Structures,17
+1988,Digital Logic,3
+1988,Math,17
+1988,OS,9
+1988,Programming,3
+1989,Data Structures,12
+1989,Digital Logic,2
+1989,Math,17
+1989,OS,10
+1989,Programming,3
+1990,Data Structures,18
+1990,Digital Logic,2
+1990,Math,17
+1990,OS,10
+1990,Programming,3
+1991,Data Structures,12
+1991,Digital Logic,3
+1991,Math,18
+1991,OS,11
+1991,Programming,3
+1992,Data Structures,17
+1992,Digital Logic,5
+1992,Math,17
+1992,OS,9
+1992,Programming,3
+1993,Data Structures,12
+1993,Digital Logic,5
+1993,Math,17
+1993,OS,8
+1993,Programming,7
+1994,Data Structures,12
+1994,Digital Logic,6
+1994,Math,14
+1994,OS,7
+1994,Programming,7
+1995,Data Structures,17
+1995,Digital Logic,5
+1995,Math,14
+1995,OS,8
+1995,Programming,7
+1996,Data Structures,12
+1996,Digital Logic,3
+1996,Math,14
+1996,OS,11
+1996,Programming,7
+1997,Data Structures,12
+1997,Digital Logic,5
+1997,Math,14
+1997,OS,9
+1997,Programming,7
+1998,Data Structures,17
+1998,Digital Logic,4
+1998,Math,14
+1998,OS,12
+1998,Programming,7
+1999,Data Structures,18
+1999,Digital Logic,4
+1999,Math,14
+1999,OS,11
+1999,Programming,7
+2000,Data Structures,12
+2000,Digital Logic,4
+2000,Math,14
+2000,OS,10
+2000,Programming,7
+2001,Data Structures,12
+2001,Digital Logic,2
+2001,Math,14
+2001,OS,9
+2001,Programming,5
+2002,Data Structures,12
+2002,Digital Logic,5
+2002,Math,14
+2002,OS,7
+2002,Programming,5
+2003,Data Structures,12
+2003,Digital Logic,4
+2003,Math,17
+2003,OS,8
+2003,Programming,5
+2004,Data Structures,13
+2004,Digital Logic,3
+2004,Math,17
+2004,OS,6
+2004,Programming,5
+2005,Data Structures,12
+2005,Digital Logic,2
+2005,Math,17
+2005,OS,9
+2005,Programming,5
+2006,Data Structures,18
+2006,Digital Logic,5
+2006,Math,17
+2006,OS,10
+2006,Programming,5
+2007,Data Structures,12
+2007,Digital Logic,6
+2007,Math,17
+2007,OS,8
+2007,Programming,5
+2008,Data Structures,12
+2008,Digital Logic,3
+2008,Math,17
+2008,OS,9
+2008,Programming,7
+2009,Data Structures,17
+2009,Digital Logic,3
+2009,Math,17
+2009,OS,9
+2009,Programming,7
+2010,Data Structures,16
+2010,Digital Logic,6
+2010,Math,19
+2010,OS,7
+2010,Programming,7
+2011,Data Structures,13
+2011,Digital Logic,5
+2011,Math,19
+2011,OS,7
+2011,Programming,7
+2012,Data Structures,17
+2012,Digital Logic,4
+2012,Math,16
+2012,OS,9
+2012,Programming,6
+2013,Data Structures,17
+2013,Digital Logic,5
+2013,Math,15
+2013,OS,8
+2013,Programming,6
+2014,Data Structures,19
+2014,Digital Logic,5
+2014,Math,19
+2014,OS,8
+2014,Programming,6
+2015,Data Structures,13
+2015,Digital Logic,3
+2015,Math,17
+2015,OS,7
+2015,Programming,6
+2016,Data Structures,13
+2016,Digital Logic,3
+2016,Math,16
+2016,OS,9
+2016,Programming,6
+2017,Data Structures,13
+2017,Digital Logic,5
+2017,Math,17
+2017,OS,8
+2017,Programming,6
+2018,Data Structures,15
+2018,Digital Logic,4
+2018,Math,19
+2018,OS,9
+2018,Programming,7
+2019,Data Structures,12
+2019,Digital Logic,5
+2019,Math,16
+2019,OS,8
+2019,Programming,7
+2020,Data Structures,12
+2020,Digital Logic,4
+2020,Math,17
+2020,OS,9
+2020,Programming,7
